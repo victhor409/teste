@@ -14,7 +14,7 @@ que vai ser declarada depois da main()
 float soma(float n);
 float dobra(float n);
 
-//Prototpo
+
 
 int main(){
     float num=20;
