@@ -20,9 +20,6 @@ float nota( float n1, float n2, float n3, int escolha){
     return m;
     
 }
-
-    
-    
 int main(){
     cout<<"\t        ++++++ MEDIA ++++++\n";
     cout<<"\t ======================================== \n";
